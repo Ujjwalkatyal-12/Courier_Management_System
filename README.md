@@ -1,6 +1,5 @@
 # CC Couriers - Courier Management System 
 
-CS6106 - Database Management Systems - Course Project
 
 CC Couriers - An interactive courier management application which provides the facilities of remote tracking and feedback system to customers and the facilities of
 placing a new parcel, updating the status of existing ones and display the history of consignments to staffs.
